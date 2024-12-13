@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1GnphhgcICSzWBXYXYUYukqbS1TN1fxvEg&s",
+      "description": "Software engineer from San Francisco.",
+      "address": {
+        "street": "123 Main St",
+        "city": "San Francisco",
+        "country": "USA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "+1 123-456-7890"
+      },
+      "interests": ["Programming", "Photography", "Traveling"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://i.pinimg.com/originals/90/c8/d0/90c8d0fde36b92c18a6c19a06b4b2735.jpg",
+      "description": "Designer from New York.",
+      "address": {
+        "street": "456 Elm St",
+        "city": "New York",
+        "country": "USA",
+        "lat": 40.7128,
+        "lng": -74.0060
+      },
+      "contact": {
+        "email": "jane.smith@example.com",
+        "phone": "+1 987-654-3210"
+      },
+      "interests": ["Design", "Art", "Music"]
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1GnphhgcICSzWBXYXYUYukqbS1TN1fxvEg&s",
+      "description": "Digital marketer based in London.",
+      "address": {
+        "street": "789 Market Rd",
+        "city": "London",
+        "country": "UK",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "contact": {
+        "email": "mike.johnson@example.com",
+        "phone": "+44 20 7946 0958"
+      },
+      "interests": ["Marketing", "Social Media", "Reading"]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "photo": "https://i.pinimg.com/236x/b2/f6/6b/b2f66b77b96a27917b819bd16983e623.jpg",
+      "description": "Freelance photographer from Sydney.",
+      "address": {
+        "street": "321 Ocean Ave",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "contact": {
+        "email": "emily.davis@example.com",
+        "phone": "+61 2 9876 5432"
+      },
+      "interests": ["Photography", "Travel", "Hiking"]
+    },
+    {
+      "id": 5,
+      "name": "Carlos Gonzalez",
+      "photo": "https://i.pinimg.com/736x/03/e1/5f/03e15f3c644d13ac3d2715c2f7ca736a.jpg",
+      "description": "Web developer from Mexico City.",
+      "address": {
+        "street": "654 Reforma Blvd",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "contact": {
+        "email": "carlos.gonzalez@example.com",
+        "phone": "+52 55 1234 5678"
+      },
+      "interests": ["Coding", "Tech", "Gaming"]
+    },
+    {
+      "id": 6,
+      "name": "Aisha Ahmed",
+      "photo": "https://i.pinimg.com/236x/9e/52/3d/9e523d8faf76136111fa4b6f2596db1b.jpg",
+      "description": "AI researcher based in Dubai.",
+      "address": {
+        "street": "789 Silicon Valley St",
+        "city": "Dubai",
+        "country": "UAE",
+        "lat": 25.276987,
+        "lng": 55.296249
+      },
+      "contact": {
+        "email": "aisha.ahmed@example.com",
+        "phone": "+971 4 567 8901"
+      },
+      "interests": ["AI", "Machine Learning", "Robotics"]
+    },
+    {
+      "id": 7,
+      "name": "Liam Brown",
+      "photo": "https://i.pinimg.com/236x/0d/90/4a/0d904ac1ac8a53face6cc14d524147c1.jpg",
+      "description": "Entrepreneur from Toronto.",
+      "address": {
+        "street": "987 Bay St",
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.65107,
+        "lng": -79.347015
+      },
+      "contact": {
+        "email": "liam.brown@example.com",
+        "phone": "+1 416-123-4567"
+      },
+      "interests": ["Entrepreneurship", "Technology", "Fitness"]
+    },
+    {
+      "id": 8,
+      "name": "Sophia Lee",
+      "photo": "https://i.pinimg.com/originals/08/80/71/088071a41b5487905fc0c121862e3c65.jpg",
+      "description": "Content creator from Seoul.",
+      "address": {
+        "street": "123 Han River Rd",
+        "city": "Seoul",
+        "country": "South Korea",
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "contact": {
+        "email": "sophia.lee@example.com",
+        "phone": "+82 2 1234 5678"
+      },
+      "interests": ["Content Creation", "Photography", "Travel"]
+    },
+    {
+      "id": 9,
+      "name": "Hiroshi Tanaka",
+      "photo": "https://i.pinimg.com/236x/04/18/3a/04183a1d86f32ff6f3c90b2cd60d38b2.jpg",
+      "description": "Graphic designer from Tokyo.",
+      "address": {
+        "street": "456 Shibuya Crossing",
+        "city": "Tokyo",
+        "country": "Japan",
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "contact": {
+        "email": "hiroshi.tanaka@example.com",
+        "phone": "+81 3-1234-5678"
+      },
+      "interests": ["Design", "Art", "Technology"]
+    },
+    {
+      "id": 10,
+      "name": "Amara Patel",
+      "photo": "https://i.pinimg.com/236x/4c/a5/ff/4ca5ff157b88a90e2c1253d123f0f841.jpg",
+      "description": "Data scientist from Mumbai.",
+      "address": {
+        "street": "789 Marine Drive",
+        "city": "Mumbai",
+        "country": "India",
+        "lat": 19.0760,
+        "lng": 72.8777
+      },
+      "contact": {
+        "email": "amara.patel@example.com",
+        "phone": "+91 22 1234 5678"
+      },
+      "interests": ["Data Science", "AI", "Travel"]
+    }
+  ]
+  
